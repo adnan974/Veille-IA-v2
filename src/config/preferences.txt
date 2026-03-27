@@ -1,0 +1,12 @@
+Je m'intéresse à :
+- L'intelligence artificielle et les LLMs (nouveaux modèles, recherches, cas d'usage pratiques)
+- La cybersécurité (vulnérabilités, outils défensifs, bonnes pratiques)
+- Les nouvelles sorties de frameworks JavaScript/TypeScript
+- Le développement web fullstack (React, Node.js, architectures modernes)
+- Les outils de productivité pour développeurs
+
+Je ne veux pas de contenu sur :
+- La politique américaine ou internationale
+- Les actualités sportives
+- Le contenu de divertissement (films, séries, musique)
+- Les cryptomonnaies et NFT spéculatifs
